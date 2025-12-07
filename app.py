@@ -1,5 +1,5 @@
 def saudacao(nome):
-    return f"Olá, {nome}! Este é o projeto de teste."
+    return "Se você vê essa mensagem o teste de Pull Request (PR) foi bem sucedido"
 
 if __name__ == "__main__":
     print(saudacao("Usuário"))
